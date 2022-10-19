@@ -12,6 +12,10 @@ This is the place where I opensource stuff and break things :rofl:
 - 📫 How to reach me: [@threadshare](mailto:master@io404.net)
 
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
 <img width="100%" src="https://github.com/threadshare/threadshare/blob/output/github-contribution-grid-snake.svg">
 
 ![](https://skillicons.dev/icons?i=js,ts,react,vue,nextjs,nuxtjs,gatsby,wasm,nodejs,go,git,docker,kubernetes,figma)
