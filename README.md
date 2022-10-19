@@ -15,3 +15,5 @@ This is the place where I opensource stuff and break things :rofl:
 <img width="100%" src="https://github.com/threadshare/threadshare/blob/output/github-contribution-grid-snake.svg">
 
 ![](https://skillicons.dev/icons?i=js,ts,react,vue,nextjs,nuxtjs,gatsby,wasm,nodejs,go,git,docker,kubernetes,figma)
+
+[![threadshare's github stats](https://github-readme-stats.vercel.app/api?username=threadshare)](https://github.com/threadshare/github-readme-stats)
