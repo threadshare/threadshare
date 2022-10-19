@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=threadshare&show_icons=true&hide_title=true">
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=threadshare&show_icons=true&hide_title=true&count_private=true&theme=merko">
 
 This is the place where I opensource stuff and break things :rofl:
 
@@ -16,4 +16,4 @@ This is the place where I opensource stuff and break things :rofl:
 
 ![](https://skillicons.dev/icons?i=js,ts,react,vue,nextjs,nuxtjs,gatsby,wasm,nodejs,go,git,docker,kubernetes,figma)
 
-[![threadshare's github stats](https://github-readme-stats.vercel.app/api?username=threadshare)](https://github.com/threadshare/github-readme-stats)
+[![threadshare's github stats](https://github-readme-stats.vercel.app/api?username=threadshare&count_private=true)](https://github.com/threadshare/github-readme-stats)
